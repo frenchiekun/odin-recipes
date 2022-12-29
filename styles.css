@@ -1,0 +1,24 @@
+h1 {
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+h1.tartare {
+    color:lightblue;
+}
+
+h1.ratatouille {
+    color:lightgreen
+}
+
+h1.boeuf {
+    color:lightsalmon
+}
+
+ol {
+    font-weight:700;
+}
+
+p {
+    text-align: center;
+}
